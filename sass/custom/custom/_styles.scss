@@ -1,0 +1,25 @@
+// This File is imported last, and will override other styles in the cascade
+// Add styles here to make changes without digging in too much
+html {
+  background: $page-bg;
+}
+
+a {
+  @include transition(color 0);
+}
+
+#content .blog-index {
+  a[rel=full-article] {
+    @include transition(background-color 0);
+  }
+}
+
+aside.sidebar {
+  a {
+    @include transition(color 0);
+  }
+}
+
+footer {
+  text-align: center;
+}
