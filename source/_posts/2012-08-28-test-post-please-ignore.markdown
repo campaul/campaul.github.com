@@ -11,6 +11,6 @@ As an introduction to this blog I give you a test to make sure everything is wor
 #include <stdio.h>
 
 int main() {
-    printf("Hello World!");
+    printf("Hello World!\n");
 }
 ```
