@@ -22,7 +22,7 @@ Bonus: This afternoon I learned that Wacom makes browser plugins for their table
 LiterallyCanvas currently implements something close to a cubic B-Spline for path smoothing and calculates this curve as you're drawing. This presented enough technical challenges that I'm going to give it a separate blog post later, but for now just rest assured that your drawings will be silky smooth.
 
 ## Upload to Imgur
-There isn't really much explaination for this one. LiterallyCanvas can upload your drawing directly to Imgur. It wasn't tough to add but it's damn cool and no other drawing app I've seen has this feature.
+There isn't really much explanation for this one. LiterallyCanvas can upload your drawing directly to Imgur. It wasn't tough to add but it's damn cool and no other drawing app I've seen has this feature.
 
 ## Extensibility
 We want LiterallyCanvas to be easy to extend and contribute to. The code is by no means perfect, but it's easy to modify and even now has pluggable tools (a feature which will also get another blog post). And did I mention it's open source? In case you missed the first link, check out the [LiterallyCanvas Github Project Page](http://literallycanvas.com/) to get the code, learn more about the project, and maybe contribute something if that's what you're into.
