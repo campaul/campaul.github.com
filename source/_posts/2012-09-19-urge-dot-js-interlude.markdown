@@ -3,7 +3,7 @@ layout: post
 title: "Urge.js Interlude"
 date: 2012-09-19 01:04
 comments: true
-categories: [Video Game, JavaScript, HTML5]
+categories: [Video Games, JavaScript, HTML5, Urge.js]
 ---
 
 In my [last post](/blog/2012/09/03/creating-a-video-game-from-scratch-part-1/) I introduced [Urge.js](https://github.com/campaul/urge.js), a simple game engine I am building as part of a series on creating a video game. Unfortunately I haven't had the time to create the next screencast, but I have made some modifications and corrections to the project since the first video that I would like to go over.

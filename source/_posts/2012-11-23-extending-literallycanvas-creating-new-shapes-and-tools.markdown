@@ -3,7 +3,7 @@ layout: post
 title: "Extending LiterallyCanvas: Creating New Shapes and Tools"
 date: 2012-11-23 23:18
 comments: true
-categories: [LiterallyCanvas, HTML5, Canvas, CoffeeScript, jQuery]
+categories: [LiterallyCanvas, HTML5, Canvas, CoffeeScript, jQuery, Computer Graphics]
 ---
 
 We designed [LiterallyCanvas](http://literallycanvas.com) to be as extensible as possible, and I'm going to show you just how easy to add new functionality to the plugin by creating a tool to draw rectangles. This functionality will soon exist out of the box (if it doesn't already), but for the sake of providing an easy to understand example pretend it doesn't.

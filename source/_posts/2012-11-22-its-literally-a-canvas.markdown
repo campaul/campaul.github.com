@@ -3,7 +3,7 @@ layout: post
 title: "It's Literally a Canvas"
 date: 2012-11-22 23:14
 comments: true
-categories: [HTML5, Canvas, CoffeeScript, jQuery]
+categories: [LiterallyCanvas, HTML5, Canvas, CoffeeScript, jQuery, Computer Graphics]
 ---
 
 At the risk of becoming cannon fodder for the Grammar Nazis, I'm going to talk about some work I've been doing recently turning HTML5 Canvas into a literal canvas. The project, aptly named [LiterallyCanvas](http://literallycanvas.com/), is an open source jQuery plugin that turns an HTML5 Canvas element into a tool you can paint with.
