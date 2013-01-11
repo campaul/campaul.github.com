@@ -65,7 +65,7 @@ class RelativeEntity(Entity):
         return (self.x + self.parent.x, self.y + self.parent.y)
 ```
 
-At this point you would start seeing some problems. The graphics will all be correct, but the physics and sound engines will be completely broken. While the `position` method was overwritten, `pos` and `location` are direct references to the `Entity`'s `position` method. In order to fix this using the current design we have to do more to `RelativeEntity`.
+At this point you would start seeing some problems. The graphics will all be correct, but the physics and sound engines will be completely broken. While the `position` method was overwritten, `pos` and `location` are direct references to the `Entity`'s `position` method. In order to fix this using the current design you need to do more to `RelativeEntity`.
 
 ``` python
 class RelativeEntity(Entity):
