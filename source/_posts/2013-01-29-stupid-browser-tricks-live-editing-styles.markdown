@@ -24,4 +24,4 @@ The Hacker News post about creating a [one line browser notepad](https://coderwa
 </html>
 ```
 
-You should immediately notice the `style` element is now visible. Moreover you can edit it and see the changes reflected on the page. Because `content-editable` is set to `plaintext-only`, you can even add new lines to the `style` without pesky paragraph tags getting inserted and breaking everything.
+You should immediately notice the style element is now visible. Moreover you can edit it and see the changes reflected on the page. Because `content-editable` is set to `plaintext-only`, you can even add new lines to the style without pesky paragraph tags getting inserted and breaking everything.
