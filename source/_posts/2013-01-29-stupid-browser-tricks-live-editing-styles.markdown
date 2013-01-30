@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Stupid Browser Tricks : Live Editing Styles"
+title: "Stupid Browser Tricks: Live Editing Styles"
 date: 2013-01-29 22:26
 comments: true
 categories: [JavaScript, CSS, HTML5]

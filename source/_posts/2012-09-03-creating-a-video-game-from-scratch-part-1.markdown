@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Creating a Video Game from Scratch : Part 1"
+title: "Creating a Video Game from Scratch: Part 1"
 date: 2012-09-03 20:24
 comments: true
 categories: [Video Games, JavaScript, HTML5, Urge.js]
