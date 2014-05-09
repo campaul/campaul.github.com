@@ -2,13 +2,14 @@
 name: campaul [dot] net
 title: Software Engineer @ Yelp. I Build Things.
 email: cpaul37@gmail.com
-description:
+description: ''
 baseurl:
 url: http://campaul.github.io
 
 # Build settings
 markdown: redcarpet
 permalinks: pretty
+exclude: ["vendor"]
 
 # Octopress settings
 permalink: /blog/:year/:month/:day/:title/
